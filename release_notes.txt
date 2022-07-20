@@ -1,1 +1,1 @@
-Created project by Aliaksandr Hancharou.
+Created models for menu
